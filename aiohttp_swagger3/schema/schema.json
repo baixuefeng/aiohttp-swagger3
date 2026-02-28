@@ -403,6 +403,7 @@
         "type": {
           "type": "string",
           "enum": [
+            "null",
             "array",
             "boolean",
             "integer",
